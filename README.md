@@ -12,5 +12,5 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyw004499)](https://solved.ac/jyw004499)<br/> 
 
 
-## Projects
+## 📚 Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZWEI0704&layout=compact)](https://github.com/ZWEI0704/github-readme-stats)
