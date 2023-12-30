@@ -6,7 +6,20 @@
 
 
 ## 🍀 Skill
-![Simpleicons](https://img.shields.io/badge/　-A8B9CC?style=plastic&logo=C&logoColor=white) ![Simpleicons](https://img.shields.io/badge/C++-00599C?style=plastic&logo=C++&logoColor=white) ![Simpleicons](https://img.shields.io/badge/　-512BD4?style=plastic&logo=csharp&logoColor=white) ![Simpleicons](https://img.shields.io/badge/linux-FCC624?style=plastic&logo=linux&logoColor=black) ![Simpleicons](https://img.shields.io/badge/javascript-F7DF1E?style=plastic&logo=javascript&logoColor=white) ![Simpleicons](https://img.shields.io/badge/python-3776AB?style=plastic&logo=python&logoColor=white)
+### Languages & Platforms
+![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
+![C#](https://img.shields.io/badge/-c%23-239128.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
+![C++](https://img.shields.io/badge/-c++-00599c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C.svg?&style=for-the-badge&logo=CMake&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 
 ## 💻 Problem Solving
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyw004499)](https://solved.ac/jyw004499)<br/> 
