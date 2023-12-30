@@ -4,6 +4,7 @@
 안녕하세요. 의료 제품 개발 회사에서 임베디드 소프트웨어 개발자로 1년 동안 일했으며,  
 현대 오토에버 모빌리티 임베디드SW 아카데미에서 6개월 동안 교육을 받아 수료했습니다.  
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyw004499)](https://solved.ac/jyw004499)<br/> 
 
 ## 🍀 Skill
 ### Languages & Platforms
@@ -20,11 +21,7 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-
-## 💻 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyw004499)](https://solved.ac/jyw004499)<br/> 
-
-
+  
 ## 📚 Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZWEI0704&layout=compact)](https://github.com/ZWEI0704/github-readme-stats)
 > ### 현대오토에버 모빌리티 임베디드SW 스쿨 프로젝트
