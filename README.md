@@ -8,9 +8,9 @@
 
 ## 🍀 Skill
 ### Languages & Platforms
-![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
-![C#](https://img.shields.io/badge/-c%23-239128.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
-![C++](https://img.shields.io/badge/-c++-00599c.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=Csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
@@ -18,9 +18,9 @@
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-064F8C.svg?&style=for-the-badge&logo=CMake&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=Visual%20Studio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
   
 ## 📚 Projects
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZWEI0704&layout=compact)](https://github.com/ZWEI0704/github-readme-stats)
