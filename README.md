@@ -3,7 +3,6 @@
 
 안녕하세요. 임베디드 소프트웨어 개발자로 1년 동안 일했으며,  
 현대 오토에버 모빌리티 임베디드SW 아카데미에서 6개월 동안 교육을 받아 수료했습니다.  
-### [Portfolio PDF](Portfolio.pdf)  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=jyw004499)](https://solved.ac/jyw004499)<br/> 
 
 ## 🍀 Skill
